@@ -1,0 +1,28 @@
+name: destin4fun
+favicon: null
+layout_spectrum: 0.13287981157191098
+typography_spectrum: 0.8402235549874604
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ea1a28'
+    - '#fcf086'
+    - '#1eccf7'
+    - '#000000'
+    - '#0a6a82'
+  brandStrength: 0.02215425856411457
+  lightness: 0.4244332720991224
+  saturation: 0.3567067361436784
+  rhythmicContrast: 0.5027263793163002
+purpose: []
